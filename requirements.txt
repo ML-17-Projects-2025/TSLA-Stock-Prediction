@@ -1,9 +1,8 @@
-pandas==1.5.3
-numpy==1.24.0
-scikit-learn==1.2.0
-yfinance==0.2.18
-matplotlib==3.7.0
-seaborn==0.11.2
-tensorflow==2.11.0   # If using deep learning (LSTM, etc.)
-statsmodels==0.13.5   # For statistical modeling (ARIMA, etc.)
-TA-Lib==0.4.0        # For technical analysis indicators like RSI, MACD
+seaborn
+matplotlib
+pandas
+numpy
+tqdm
+scikit-learn
+torch
+yfinance
