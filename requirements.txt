@@ -6,3 +6,4 @@ tqdm
 scikit-learn
 torch
 yfinance
+pandas-market-calendars
